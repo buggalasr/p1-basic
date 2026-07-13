@@ -5,7 +5,7 @@ steps:
 
 artifacts:
   objects:
-    location: 'gs://gcp-vagile-ci-bucket/'
+    location: 'gs://gcp-buggala-ci-bucket/'
     paths: ['target/*.war']
 
 options:
